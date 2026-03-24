@@ -1,0 +1,15 @@
+packages:
+  "react-hook-form": "For building the contact form"
+  "@hookform/resolvers": "For Zod validation with react-hook-form"
+  "lucide-react": "For UI icons like the mobile menu hamburger"
+  "zod": "For contact form schema validation"
+  "clsx": "For merging Tailwind classes"
+  "tailwind-merge": "For merging Tailwind classes efficiently"
+
+images: []
+
+notes:
+  - Client-side only application. No backend or database required.
+  - The contact form is a mock and handles success states client-side.
+  - Using wouter for client-side routing.
+  - Design style: minimal corporate, no animations, sharp corners.

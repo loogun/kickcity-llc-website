@@ -1,0 +1,53 @@
+Build me a professional business website for Kick City LLC, a Dallas-Fort Worth based holding company for three youth sports brands. The website should feel clean, corporate, modern, and easy to load — inspired by the style of fenwaypartners.com. No flashy animations. No clutter. Just a polished, credible business presence.
+
+BRAND DETAILS
+* Company name: Kick City LLC
+* Type: Parent holding company
+* Location: McKinney, Texas
+* Brand colors: Black, White, Beige/Tan, Red
+* Font style: Clean, modern sans-serif (e.g., Inter, Montserrat, or similar)
+
+THE THREE VENTURES UNDER KICK CITY LLC
+1. Kick City Soccer Academy — A youth soccer coaching brand developing foundational skills and teamwork in children ages 2–13 (Pre-K through 8th grade)
+2. KickCity Athletics — A youth sports training brand focused on building athletic agility, self-discipline, and a resilient mindset in young athletes
+3. Kick City Soccer House — A proposed premier indoor and outdoor soccer coaching and play facility serving families across North Texas: McKinney, Melissa, Frisco, Plano, Little Elm, Prosper, Celina, and Anna corridors of Collin County. Focused on children ages 2–13, it will provide a safe, climate-controlled space where young athletes develop soccer skills while learning sportsmanship and teamwork
+
+PAGES TO BUILD
+Build the following four pages:
+1. Home
+    * Hero section with company name, a one-line tagline, and a CTA button (e.g. "Explore Our Brands")
+    * Brief intro paragraph about Kick City LLC as a holding company
+    * Cards or tiles previewing the three ventures with short descriptions and a "Learn More" link each
+    * Footer with company name, navigation links, and a copyright line
+2. About
+    * Mission statement section
+    * Brief company story/background
+    * Core values (e.g., Athletic Excellence, Youth Development, Community, Resilience)
+    * A section on the geography served (Collin County, North Texas)
+3. Ventures
+    * One section per brand (Kick City Soccer Academy, KickCity Athletics, Kick City Soccer House)
+    * Each section: brand name, logo placeholder, short description, and a "Coming Soon" or placeholder CTA button
+    * Clean card or panel layout
+4. Contact
+    * Simple contact form: Name, Email, Message, Submit button
+    * Company location: Collin County, North Texas
+    * A note that inquiries will be responded to within 2 business days
+
+DESIGN INSTRUCTIONS
+* Color palette: Black (#000000), White (#FFFFFF), Beige/Tan (#C9B99A), Red (#CC0000)
+* Style: Clean, minimal, corporate — similar to a private equity or investment firm website
+* Navigation: Fixed top nav bar with logo placeholder on the left and page links on the right
+* Mobile responsive: Yes — must look good on phone and desktop
+* No stock photo placeholders needed — use solid color blocks or gradient backgrounds instead
+* Keep page load fast — no heavy libraries or unnecessary scripts
+
+TECH STACK
+* HTML, CSS, JavaScript only (no frameworks needed)
+* Single folder structure — keep it simple
+* One CSS file for all styling
+* Separate HTML file per page
+
+ADDITIONAL NOTES
+* Add placeholder boxes where logos will go (labeled "Logo Here") — I will replace these with real images later
+* Use placeholder text that sounds professional and on-brand — not Lorem Ipsum
+* Make the site easy for a non-developer to edit later (clear file names, simple structure, commented code where helpful)

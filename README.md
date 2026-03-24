@@ -33,8 +33,6 @@ KickCity LLC is the parent holding company for three youth sports brands focused
 
 ## Developer
 OluM Richard A
-Program Management | Technology Governance | AI Governance
-Building practical web development skills through AI-assisted development.
 
 ## Status
 In Progress — Phase 1 complete. Logo integration, content refinement, and custom domain setup in progress.

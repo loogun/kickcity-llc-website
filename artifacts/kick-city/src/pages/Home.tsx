@@ -19,12 +19,12 @@ export default function Home() {
   return (
     <div className="w-full">
       {/* Hero Section */}
-      <section className="bg-black min-h-[75vh] flex items-center justify-center px-4 sm:px-6 lg:px-8">
+      <section className="bg-[#F5F0E8] min-h-[75vh] flex items-center justify-center px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center space-y-10">
-          <h1 className="text-5xl md:text-7xl font-light text-white tracking-tight leading-tight">
-            Kick City LLC
+          <h1 className="text-5xl md:text-7xl font-light text-black tracking-tight leading-tight">
+            KickCity LLC
           </h1>
-          <p className="text-lg md:text-2xl text-white/80 font-light max-w-2xl mx-auto">
+          <p className="text-lg md:text-2xl text-black/60 font-light max-w-2xl mx-auto">
             Building the Future of Youth Sports in North Texas
           </p>
           <div className="pt-8">
@@ -43,7 +43,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-sm font-semibold uppercase tracking-widest text-black/50 mb-6">About the Firm</h2>
           <p className="text-xl md:text-3xl font-light text-black leading-relaxed">
-            Kick City LLC is a holding company for three premier youth sports brands operating across the Dallas-Fort Worth metroplex. Headquartered in McKinney, Texas, we invest in the physical and character development of the next generation of athletes.
+            KickCity LLC is a holding company for three premier youth sports brands operating across the Dallas-Fort Worth metroplex. Headquartered in McKinney, Texas, we invest in the physical and character development of the next generation of athletes.
           </p>
         </div>
       </section>

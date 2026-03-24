@@ -24,7 +24,7 @@ export default function About() {
       <section className="bg-white py-24 border-b border-black/5 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-light text-black tracking-tight mb-6">
-            About Kick City LLC
+            About KickCity LLC
           </h1>
           <p className="text-lg text-black/60 uppercase tracking-widest font-medium">
             Developing the Next Generation
@@ -50,7 +50,7 @@ export default function About() {
           </div>
           <div className="md:w-2/3">
             <p className="text-lg font-light text-black leading-relaxed mb-6">
-              Kick City LLC was founded to serve North Texas families by meeting the growing demand for quality youth sports programs. We recognized a critical gap in professional, developmental sports coaching for young children in our communities.
+              KickCity LLC was founded to serve North Texas families by meeting the growing demand for quality youth sports programs. We recognized a critical gap in professional, developmental sports coaching for young children in our communities.
             </p>
             <p className="text-lg font-light text-black leading-relaxed">
               Through strategic investments in coaching methodologies and facility development, we are building a holistic ecosystem that supports young athletes from their first steps on the field through their crucial developmental years.

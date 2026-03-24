@@ -54,7 +54,7 @@ export default function Contact() {
               <div className="border-l-2 border-[#CC0000] pl-6">
                 <h3 className="text-sm font-semibold uppercase tracking-widest text-black mb-2">Headquarters</h3>
                 <p className="text-black/80 font-light">
-                  Kick City LLC<br />
+                  KickCity LLC<br />
                   McKinney, TX<br />
                   Collin County, North Texas
                 </p>
@@ -80,7 +80,7 @@ export default function Contact() {
                 </div>
                 <h3 className="text-2xl font-medium text-black">Inquiry Received</h3>
                 <p className="text-black/70 font-light">
-                  Thank you for reaching out to Kick City LLC. We will review your message and respond shortly.
+                  Thank you for reaching out to KickCity LLC. We will review your message and respond shortly.
                 </p>
                 <button 
                   onClick={() => setIsSubmitted(false)}

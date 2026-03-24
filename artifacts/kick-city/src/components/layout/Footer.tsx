@@ -9,7 +9,7 @@ export function Footer() {
           <div className="space-y-4">
             <div className="inline-block border border-white px-4 py-2 bg-black">
               <span className="font-bold tracking-widest text-sm uppercase text-white">
-                Kick City LLC
+                KickCity LLC
               </span>
             </div>
             <p className="text-white/70 text-sm max-w-xs mt-4">
@@ -44,7 +44,7 @@ export function Footer() {
         
         <div className="mt-16 pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center">
           <p className="text-white/50 text-xs">
-            &copy; {new Date().getFullYear()} Kick City LLC. All rights reserved.
+            &copy; {new Date().getFullYear()} KickCity LLC. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 space-x-6">
             <span className="text-white/50 text-xs cursor-pointer hover:text-white">Privacy Policy</span>

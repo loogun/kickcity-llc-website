@@ -30,7 +30,7 @@ export function Navbar() {
           <Link href="/" onClick={closeMenu} className="flex-shrink-0 flex items-center cursor-pointer">
             <div className="border border-black px-4 py-2 bg-white flex items-center justify-center">
               <span className="font-bold tracking-widest text-sm uppercase text-black">
-                Kick City LLC
+                KickCity LLC
               </span>
             </div>
           </Link>

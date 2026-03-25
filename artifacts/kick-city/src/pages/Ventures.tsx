@@ -22,7 +22,7 @@ const BRANDS = [
     name: "Kick City Soccer House",
     status: "Coming Soon",
     logo: "/logos/soccer-house-logo.png",
-    logoBg: "bg-black",
+    logoBg: "bg-white",
     description: "A proposed state-of-the-art facility serving families across North Texas. Kick City Soccer House will feature premier indoor and outdoor soccer coaching and play areas in a climate-controlled environment. Designed specifically for children ages 2-13, this facility will serve as the central hub for our programs, proudly serving families from McKinney, Melissa, Frisco, Plano, Little Elm, Prosper, Celina, and Anna.",
   }
 ];

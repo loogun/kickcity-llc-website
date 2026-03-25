@@ -31,7 +31,7 @@ export function Navbar() {
             <img
               src="/logos/kickcity-llc-logo.png"
               alt="KickCity LLC"
-              className="h-10 w-auto object-contain"
+              className="h-20 w-auto object-contain"
             />
           </Link>
 

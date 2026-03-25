@@ -43,7 +43,7 @@ export default function Ventures() {
           <div key={brand.id} className="flex flex-col md:flex-row gap-8 lg:gap-16 items-start">
             
             {/* Logo Box */}
-            <div className={`w-full md:w-80 h-64 md:h-80 shrink-0 ${brand.logoBg} border border-black/10 flex items-center justify-center p-8`}>
+            <div className={`w-full md:w-80 h-64 md:h-80 shrink-0 ${brand.logoBg} border border-black/10 flex items-center justify-center p-4`}>
               {brand.logo ? (
                 <img
                   src={brand.logo}

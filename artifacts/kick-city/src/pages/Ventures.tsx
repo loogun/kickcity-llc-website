@@ -5,7 +5,7 @@ const BRANDS = [
     id: "soccer-academy",
     name: "Kick City Soccer Academy",
     status: "Active",
-    logo: null,
+    logo: "/logos/soccer-academy-logo.png",
     logoBg: "bg-[#C9B99A]",
     description: "Our premier youth soccer coaching brand. The Academy focuses on developing foundational skills, game intelligence, and teamwork in children ages 2 through 13 (Pre-K through 8th grade). Operating with a structured, age-appropriate curriculum delivered by expert coaches, the Academy provides a clear pathway for athletic development in a supportive environment.",
   },

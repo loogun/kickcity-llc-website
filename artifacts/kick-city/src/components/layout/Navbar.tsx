@@ -26,13 +26,13 @@ export function Navbar() {
     <header className="fixed top-0 left-0 right-0 w-full bg-white z-50 border-b border-black/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
-          {/* Logo Placeholder */}
+          {/* Logo */}
           <Link href="/" onClick={closeMenu} className="flex-shrink-0 flex items-center cursor-pointer">
-            <div className="border border-black px-4 py-2 bg-white flex items-center justify-center">
-              <span className="font-bold tracking-widest text-sm uppercase text-black">
-                KickCity LLC
-              </span>
-            </div>
+            <img
+              src="/logos/kickcity-llc-logo.png"
+              alt="KickCity LLC"
+              className="h-10 w-auto object-contain"
+            />
           </Link>
 
           {/* Desktop Navigation */}
